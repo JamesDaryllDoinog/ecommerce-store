@@ -1,0 +1,12 @@
+asgiref==3.8.1
+dataclasses==0.6
+Django==5.2.1
+djongo==1.2.31
+dnspython==2.7.0
+gunicorn==23.0.0
+packaging==25.0
+pillow==11.2.1
+pymongo==4.13.0
+sqlparse==0.5.3
+tzdata==2025.2
+whitenoise==6.9.0
